@@ -22,4 +22,4 @@ This public Github repository contains two components: source data and codes. We
 
 ## Contact Us
 Please contact us if you need further technical support or search for cooperation. Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.\
-Email contact: &nbsp; [Le Xie](mailto:le.xie@tamu.edu?subject=[GitHub]%20DR_Framework), &nbsp; [Kiyeob Lee](mailto:kiyeoblee@tamu.edu?subject=[GitHub]%20DR_Framework), &nbsp; [Siva Seetharaman](mailto:zxt0515@tamu.edu?subject=[GitHub]%20DR_Framework).
+Email contact: &nbsp; [Le Xie](mailto:le.xie@tamu.edu?subject=[GitHub]%20DR_Framework), &nbsp; [Kiyeob Lee](mailto:kiyeoblee@tamu.edu?subject=[GitHub]%20DR_Framework), &nbsp; [Siva Seetharaman](mailto:sivaranjani@tamu.edu?subject=[GitHub]%20DR_Framework).
